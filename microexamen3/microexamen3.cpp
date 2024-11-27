@@ -130,7 +130,6 @@ int main() {
 	a.remove(1);
 	a.print();
 
-
 }
 
 /*
